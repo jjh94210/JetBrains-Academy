@@ -1,2 +1,2 @@
 # JetBrains-Academy
-Project of JetBrains Academy Courses
+Projects and Answers of JetBrains Academy Courses
